@@ -14,6 +14,8 @@ Con la ayuda de APIs del navegador (como navigator.geolocation y navigator.media
   pip install -r requirements.txt
 
   ![image](https://github.com/user-attachments/assets/89c5b135-9ba0-4db5-a482-a9666aecbc88)
+  ![image](https://github.com/user-attachments/assets/71c4c345-b426-453d-b9e1-9ddb15c6d5ff)
+
 
 
 
