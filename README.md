@@ -13,4 +13,7 @@ Con la ayuda de APIs del navegador (como navigator.geolocation y navigator.media
 - Instalar Requerimientos:
   pip install -r requirements.txt
 
+  ![image](https://github.com/user-attachments/assets/89c5b135-9ba0-4db5-a482-a9666aecbc88)
+
+
 
