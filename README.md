@@ -9,3 +9,8 @@
 
 El backend en Flask sirve una página web donde el usuario otorga permisos de geolocalización y cámara.
 Con la ayuda de APIs del navegador (como navigator.geolocation y navigator.mediaDevices.getUserMedia), se activan las funciones para obtener la ubicación y transmitir la cámara.
+
+- Instalar Requerimientos:
+  pip install -r requirements.txt
+
+
