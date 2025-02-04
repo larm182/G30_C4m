@@ -32,6 +32,14 @@ admin/admin
 ![image](https://github.com/user-attachments/assets/1fc42092-dfa3-4b4d-a480-109ac44f913b)
 ![image](https://github.com/user-attachments/assets/48e820ad-791e-4569-bdea-0e8310e12055)
 
+- Video Demo:
+  
+https://github.com/user-attachments/assets/b48a6d89-365e-4299-a643-7ef9437b1e04
+
+
+
+
+
 
 
 
