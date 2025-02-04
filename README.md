@@ -20,9 +20,9 @@ python G30_C4m.py
 http://ip:5000/geolocalizacion
 http://ip:5000/camara
 
--Panel de administracion:
+- Panel de administracion:
 http://ip:5000
-contraseña:
+- contraseña:
 admin/admin
 
 
